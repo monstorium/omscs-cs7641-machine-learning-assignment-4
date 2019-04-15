@@ -1,4 +1,7 @@
-# OMSCS: Machine Learning - Assignment 4 
+# CS 4641: Machine Learning - Assignment 4 - 4/14/209
+
+## Note from Varun Giridhar - Follow instructions exactly as Juan lays out below. I did exactly what he described below to get the results necessary to write my analysis.
+
 ## by Juan J. San Emeterio https://www.linkedin.com/in/juanjsanemeterio/
 
 
